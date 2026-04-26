@@ -4,7 +4,7 @@ Blockchain‑based coffee supply chain system on Ethereum. Smart contracts track
  Coffee Supply Chain on Ethereum
 This project implements a blockchain-based supply chain solution for the coffee industry using Ethereum smart contracts. It enables secure, transparent, and immutable tracking of coffee as it moves through the supply chain, from farm to cup.
 
- Overview
+Overview
 The system models real-world actors involved in coffee production and trade, assigning specific roles to:
 
 Administrator
