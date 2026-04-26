@@ -34,7 +34,7 @@ IPFS – Decentralized file storage
 
 MetaMask – Ethereum wallet integration
 
-🚀 Features
+Features
 Role-based access control for all stakeholders
 
 Transparent lifecycle tracking of coffee batches
