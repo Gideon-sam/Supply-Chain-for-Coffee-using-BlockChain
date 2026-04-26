@@ -21,7 +21,7 @@ Processor
 
 Each role interacts with the system at defined stages, updating product information and verifying authenticity through smart contracts.
 
-🛠️ Technologies Used
+Technologies Used
 Ethereum – Blockchain platform for deploying smart contracts
 
 Solidity – Smart contract development
